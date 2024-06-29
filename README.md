@@ -1,4 +1,6 @@
-# Codespaces ♥️ Railsチュートリアル
+# Codespaces ♥️ Railsチュートリアルit
+
+### test edit
 
 本リポジトリは[Railsチュートリアル](https://railstutorial.jp/)の [GitHub Codespaces](https://github.co.jp/features/codespaces) 用テンプレートです。2022年11月に公開された[GitHub公式のRailsテンプレート](https://github.com/github/codespaces-rails)を、[Railsチュートリアル](https://railstutorial.jp)用にカスタマイズしたものです。
 
@@ -13,11 +15,11 @@
 
 <!-- ![旧：Codespaces のサンプル画面](https://i.gyazo.com/af23bec87ce2b3d79613e16883700ecf.png) -->
 
-<br>
+ < br>
 
 ## 必要なもの
 
-- [Chrome](https://www.google.com/intl/ja/chrome/browser/) などのブラウザ（Chrome だとより快適に動作します）
+ -  [Chrome](https://www.google.com/intl/ja/chrome/browser/) などのブラウザ （Chrome だとより快適に動作します）
 - [GitHub](https://github.co.jp/) のアカウント（もしまだであれば事前に作成しておきましょう）
   [![GitHub Top](https://i.gyazo.com/b5bad7bc8318837b67def1643a52b955.png)](https://github.co.jp/)
 
