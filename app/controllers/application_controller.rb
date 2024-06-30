@@ -4,3 +4,8 @@ class ApplicationController < ActionController::Base
   end
 end
 
+class ApplicationController < ActionController::Base
+  de goodbye
+    render html: "good bye"
+  end
+end
